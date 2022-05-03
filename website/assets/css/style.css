@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+
+.fondo {
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 605px;
+}
